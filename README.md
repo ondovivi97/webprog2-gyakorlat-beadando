@@ -1,1 +1,1 @@
-# webprog2-gyakorlat-beadando
+A Webprogramozás II. tantárgy gyakorlati beadandója.
