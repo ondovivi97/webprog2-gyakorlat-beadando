@@ -1,0 +1,25 @@
+{
+  "name": "webprog2-gyakorlat-beadando",
+  "version": "1.0.0",
+  "description": "A Webprogramozás II. tantárgy gyakorlati beadandója.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ondovivi97/webprog2-gyakorlat-beadando.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ondovivi97/webprog2-gyakorlat-beadando/issues"
+  },
+  "homepage": "https://github.com/ondovivi97/webprog2-gyakorlat-beadando#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
